@@ -1,4 +1,3 @@
-<img src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1805/karpenkoilia180500009/102165920-vector-line-web-concept-for-programming-linear-web-banner-learn-to-code-.jpg" height="300px" width="100%"/>
 <h1 align="center">Hi 👋, I'm José Toquica.</h1>
 <h3 align="center">A Software Engineer from Colombia with approximately 3 years of experience in software development.</h3> 
 <h3>With the following abilities:</h3> 

@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **jhtoquica@gmail.com**
 
-- 📄 Know about my curriculum vitae <a href="https://drive.google.com/uc?id=1c6K-iPkzoxlyBORw2nKolY3F_4l66eA0&export=download" target="_blank">Download CV</a>
+- 📄 Know about my curriculum vitae <a href="https://drive.google.com/uc?export=download&id=1qVqWe53yFTmhzyK8znak4ns2-lE7o6K2" target="_blank">Download CV</a>
 
 <p align="left">
 </p>

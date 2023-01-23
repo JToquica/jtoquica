@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm José Toquica.</h1>
-<h3 align="center">A Software Engineer from Colombia with approximately 3 years of experience in software development.</h3> 
+<h3 align="center">A Software Engineer from Colombia with 3 years of experience in software development.</h3> 
 <h3>With the following abilities:</h3> 
 <ul>
 <li>Layout and design of interfaces and user experiences for web and mobile applications.</li>
